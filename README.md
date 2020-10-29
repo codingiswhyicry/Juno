@@ -9,8 +9,15 @@ Juno's goal is to help ease the pain points that neurodivergent people face with
 2. Communicating to others non-verbally emotions in a discreet way, and when a meltdown is coming
 3. Changing the user's environment without their input based on their mood to help them center themselves.
 
-### Juno's "ecosystem"
-Juno's ecosystem and how it works is in this document: 
+### General Disclaimer
+As much as I want to make Juno as accessible as possible and to design for every edge case, Juno is being built for myself (and my autism), and every ND person is different with what they can have in terms of sensory stuff. Wearing a ring or bracelet might not be doable for one person like it is another, and some sounds that I'm cool with might not be cool with you. That's totally fine! 
+
+But please note, I'm not able to design for every single ND person, so I am designing for myself. I am also not a representative of every single ND person, so although this system works for me, it might not work for you.
+
+Please feel free to edit anything in here to make it more accessible for you and whatever you need it for! And please know that if you are someone who is not NT, building this for an ND person, that person might have highly subjective opinions about this and may not like it for one reason or another. Please check in with them before building it.
+
+### How it works
+Juno's ecosystem and how it works is in this Figma file: https://www.figma.com/file/vqSLpQIdBKik7RnNZOPhPz/Juno?node-id=0%3A1
 
 ### Building Juno
 Building Juno is going to be a time intensive project, and will be solely funded, built, and tested by me, with everything here being open sourced for other ND / people who love someone who is ND to make and share with everyone. 
@@ -18,6 +25,8 @@ Building Juno is going to be a time intensive project, and will be solely funded
 In the event that Juno becomes an item that sees a lot of demand for being built as an actual product for ND people, I'll be donating it to my organization, Astra Labs, and having Astra manage production / selling of Juno, with any leftover profits going directly back into the organization. Even then, Juno will always be open source and available for makers to take on, no matter what. 
 
 Here's the phases of Juno's development, with me continually checking back into update this document with my progress as time goes on. 
+
+### Building Juno
 
 ## Phase 1 (October 2020 - November 2020)
 1. ~~Sketching out Juno's initial ecosystem~~
