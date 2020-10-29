@@ -1,5 +1,5 @@
 ![Juno Banner](https://github.com/thecodingone/Juno/blob/main/Branding%20Assets/Banner/Gradient%20Banner@3x.png?raw=true)
-# Juno
+
 This is an open-source repository for Juno, an assistant for neurodivergent people with sensory issues. This repo contains a couple of different components that come together to build Juno. 
 
 ### What is Juno?
