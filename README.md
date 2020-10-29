@@ -1,3 +1,4 @@
+![Juno Banner](https://github.com/thecodingone/Juno/blob/main/Branding%20Assets/Banner/Gradient%20Banner@3x.png?raw=true)
 # Juno
 This is an open-source repository for Juno, an assistant for neurodivergent people with sensory issues. This repo contains a couple of different components that come together to build Juno. 
 
@@ -17,7 +18,9 @@ But please note, I'm not able to design for every single ND person, so I am desi
 Please feel free to edit anything in here to make it more accessible for you and whatever you need it for! And please know that if you are someone who is not NT, building this for an ND person, that person might have highly subjective opinions about this and may not like it for one reason or another. Please check in with them before building it.
 
 ### How it works
-Juno's ecosystem and how it works is in this Figma file: https://www.figma.com/file/vqSLpQIdBKik7RnNZOPhPz/Juno?node-id=0%3A1
+Juno's ecosystem and how it works is in this Figma file:
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FvqSLpQIdBKik7RnNZOPhPz%2FJuno%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ### Building Juno
 Building Juno is going to be a time intensive project, and will be solely funded, built, and tested by me, with everything here being open sourced for other ND / people who love someone who is ND to make and share with everyone. 
