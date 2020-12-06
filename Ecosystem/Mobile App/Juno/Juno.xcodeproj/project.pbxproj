@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		86007070257C8C25005EDE33 /* IBMPlexMono-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8600706B257C8C25005EDE33 /* IBMPlexMono-Medium.ttf */; };
+		86007071257C8C25005EDE33 /* IBMPlexMono-Text.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8600706C257C8C25005EDE33 /* IBMPlexMono-Text.ttf */; };
+		86007072257C8C25005EDE33 /* IBMPlexMono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8600706D257C8C25005EDE33 /* IBMPlexMono-Regular.ttf */; };
+		86007074257C8C25005EDE33 /* IBMPlexMono-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8600706F257C8C25005EDE33 /* IBMPlexMono-Light.ttf */; };
 		8621A3E9255653EC00A9C4C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8621A3E8255653EC00A9C4C2 /* AppDelegate.swift */; };
 		8621A3EB255653EC00A9C4C2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8621A3EA255653EC00A9C4C2 /* SceneDelegate.swift */; };
 		8621A3ED255653EC00A9C4C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8621A3EC255653EC00A9C4C2 /* ViewController.swift */; };
@@ -20,6 +24,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8600706B257C8C25005EDE33 /* IBMPlexMono-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IBMPlexMono-Medium.ttf"; sourceTree = "<group>"; };
+		8600706C257C8C25005EDE33 /* IBMPlexMono-Text.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IBMPlexMono-Text.ttf"; sourceTree = "<group>"; };
+		8600706D257C8C25005EDE33 /* IBMPlexMono-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IBMPlexMono-Regular.ttf"; sourceTree = "<group>"; };
+		8600706F257C8C25005EDE33 /* IBMPlexMono-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IBMPlexMono-Light.ttf"; sourceTree = "<group>"; };
 		8621A3E5255653EC00A9C4C2 /* Juno.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Juno.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8621A3E8255653EC00A9C4C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8621A3EA255653EC00A9C4C2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -45,6 +53,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		86007069257C8BEC005EDE33 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				8600706A257C8BF9005EDE33 /* Fonts */,
+				8621A3F4255653EE00A9C4C2 /* Assets.xcassets */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		8600706A257C8BF9005EDE33 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				8600706F257C8C25005EDE33 /* IBMPlexMono-Light.ttf */,
+				8600706B257C8C25005EDE33 /* IBMPlexMono-Medium.ttf */,
+				8600706D257C8C25005EDE33 /* IBMPlexMono-Regular.ttf */,
+				8600706C257C8C25005EDE33 /* IBMPlexMono-Text.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
 		8621A3DC255653EC00A9C4C2 = {
 			isa = PBXGroup;
 			children = (
@@ -69,7 +97,7 @@
 				8621A3EC255653EC00A9C4C2 /* ViewController.swift */,
 				86E3A9EC257C820C00C5DE45 /* Tab Bar */,
 				8621A3EE255653EC00A9C4C2 /* Main.storyboard */,
-				8621A3F4255653EE00A9C4C2 /* Assets.xcassets */,
+				86007069257C8BEC005EDE33 /* Assets */,
 				8621A3F6255653EE00A9C4C2 /* LaunchScreen.storyboard */,
 				8621A3F9255653EE00A9C4C2 /* Info.plist */,
 				8621A3F1255653EC00A9C4C2 /* Juno.xcdatamodeld */,
@@ -145,8 +173,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				86007074257C8C25005EDE33 /* IBMPlexMono-Light.ttf in Resources */,
 				8621A3F8255653EE00A9C4C2 /* LaunchScreen.storyboard in Resources */,
 				8621A3F5255653EE00A9C4C2 /* Assets.xcassets in Resources */,
+				86007070257C8C25005EDE33 /* IBMPlexMono-Medium.ttf in Resources */,
+				86007071257C8C25005EDE33 /* IBMPlexMono-Text.ttf in Resources */,
+				86007072257C8C25005EDE33 /* IBMPlexMono-Regular.ttf in Resources */,
 				8621A3F0255653EC00A9C4C2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
