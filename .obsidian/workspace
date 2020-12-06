@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "90fb7d068b6b6b55",
+    "type": "split",
+    "children": [
+      {
+        "id": "78aba70edf89825d",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wiki/Glossary.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b625f12808bfcb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0a5527c82968120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b8dc5f66470924b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcfba0c22dc82f88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36faf85e55a3dd55",
+    "type": "split",
+    "children": [
+      {
+        "id": "6daed8330c898653",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77532823733c9931",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wiki/Glossary.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Wiki/Glossary.md",
+    "Wiki/Phases.md",
+    "Wiki/FAQ.md",
+    "Branding Assets/Banner/Phases Banner.png",
+    "Branding Assets/Banner/Gradient Banner@3x.png",
+    "Branding Assets/Banner/Glossary Banner.png",
+    "Branding Assets/Banner/FAQ Banner.png",
+    "README.md"
+  ]
+}
